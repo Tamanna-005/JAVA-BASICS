@@ -24,6 +24,6 @@ int count=0;
                 count++;
             }
         }
-        System.out.print("Total even number in array: "+count);
+        System.out.print("Total even number in array are : "+count);
     }
 }
