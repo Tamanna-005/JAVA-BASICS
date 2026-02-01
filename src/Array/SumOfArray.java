@@ -23,6 +23,6 @@ public class SumOfArray {
        for(int i=0;i<n;i++){
            sum+=arr[i];
        }
-System.out.println("Sum of array is: "+sum);
+System.out.println("Sum os array is: "+sum);
    }
 }
